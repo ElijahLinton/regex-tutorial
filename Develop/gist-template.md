@@ -1,10 +1,14 @@
 # Title (replace with your title)
 
-Introductory paragraph (replace this with your text)
+regular expression (Regex) is an simplistic but useful pattern.
+It is used for many reasons and is very reliable for credential validation you can use it for passwords emails username, and much more.
+it can even help you search for specific characters, letters, numbers, and special characters. there is much to explore when it comes to this top so lets get right into it. 
 
 ## Summary
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+
+lets go into a scenario tha i am 
 
 ## Table of Contents
 
