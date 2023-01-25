@@ -39,13 +39,15 @@ character classes also known as character sets is a feature that allows you to l
 flags are not necessary but very useful for altering they way trhe search is conducted flags have many different ways of doing so flags are known to take strings and sort them in a alphabetical order and switch text
 there are case sensitive searches and others that match specically to what you need.
 ### Grouping and Capturing
-group and capturing takes a a pattern group in parentheses and finds the most indentical patten within the search and takes it as a whole 
+group and capturing takes a a pattern group in parentheses and finds the most indentical patten within the search and takes it as a wholes so when we put a letters in a parentheses (xyz) it will find a match to this pattern.
 ### Bracket Expressions
-
+bracket expressions are around the characters that you are trying to match so if i have 'regex'.match(/re/) it will find the first two letters in the word regex is a match
 ### Greedy and Lazy Match
-
+greedy match is a way of  taking a few words from a quote or string and fixiating on the quoted words and the string between them for example if we look for words that are quoted it wiil match the first quotation mark and the last one '"just "like "this"' this is known as a greedy search 
+but a lazy search strictly would take the queeted words as "like","this" it is only ready to use  if a question mark is in quoted.
 ### Boundaries
-
+Boundaries are anchors that look for words only to match it does not take spaces as well so that means it is zero legnth it should look like this
+ b/letters/b
 ### Back-references
 
 ### Look-ahead and Look-behind
