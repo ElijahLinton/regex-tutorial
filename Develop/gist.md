@@ -49,9 +49,9 @@ but a lazy search strictly would take the queeted words as "like","this" it is o
 Boundaries are anchors that look for words only to match it does not take spaces as well so that means it is zero legnth it should look like this
  b/letters/b
 ### Back-references
-
+back refrences is a way to capture characters and look for the same characters repeatedly this can be  helpful if you are looking for multiple quotes as well in my personal opinion i find it to be one of the most interesting elements of regex.
 ### Look-ahead and Look-behind
-
+a look a head is a form of syntax you can use to see if there is any matches in front of your search it will look like this (?=foo) lets breakdown this becasue initally it looks very confusing so this is called a look ahead the "foo" symbolizes the where your match is at so it is telling the search engine where it is and the look behind does the oppisite (?<=foo) you will notice some nuances as you can see the "<" tells the search engine  to look behind the position your match is  
 ## Author
-
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+written by elijah linton currently an amataur web developer 
+[https://github.com/ElijahLinton]
